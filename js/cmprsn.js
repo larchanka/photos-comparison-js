@@ -55,7 +55,6 @@
 			};
 			photoElement = document.createElement('li');
 			photoElement.className = "cmprsn-photo cmprsn-photo"+i;
-			photoElementImage = 
 			photoElement.innerHTML = '<img src="'
 					+ this.photosInformation[i].url
 					+ '" alt="'
